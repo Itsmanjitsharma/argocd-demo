@@ -16,4 +16,4 @@ spec:
       - name: argocd-demo-container
         image: itsmanjitsharma132/simpleapp-pipeline:latest
         ports:
-        - containerPort: 8080
+        - containerPort: 9999
